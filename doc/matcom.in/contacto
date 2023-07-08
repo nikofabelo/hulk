@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Información de Contacto | MatCom</title>
+<meta name="generator" content="Jekyll v3.9.3" />
+<meta property="og:title" content="Información de Contacto" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Información general sobre la Facultad de Matemática y Computación de la Universidad de La Habana" />
+<meta property="og:description" content="Información general sobre la Facultad de Matemática y Computación de la Universidad de La Habana" />
+<link rel="canonical" href="https://matcom.in/contacto.html" />
+<meta property="og:url" content="https://matcom.in/contacto.html" />
+<meta property="og:site_name" content="MatCom" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Información de Contacto" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","description":"Información general sobre la Facultad de Matemática y Computación de la Universidad de La Habana","headline":"Información de Contacto","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"https://matcom.in/logo.png"}},"url":"https://matcom.in/contacto.html"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="/assets/css/style.css?v=446ad44cc7c5468fa8b739ee7bb4c25c27da02ec">
+    <!--[if lt IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
+    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+
+<!-- Setup Google Analytics -->
+
+
+
+<!-- You can set your favicon here -->
+<!-- link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" -->
+
+<!-- end custom head snippets -->
+
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1><a href="https://matcom.in/">MatCom</a></h1>
+
+        
+          <img src="/logo.png" alt="Logo" />
+        
+
+        <p>Información general sobre la Facultad de Matemática y Computación de la Universidad de La Habana</p>
+
+        
+
+        
+        <p class="view"><a href="https://github.com/matcom">View My GitHub Profile</a></p>
+        
+
+        
+      </header>
+      <section>
+
+      <h1 id="información-de-contacto">Información de Contacto</h1>
+
+<h2 id="teléfonos">Teléfonos</h2>
+
+<h2 id="oficinas">Oficinas</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Oficina</th>
+      <th>Teléfono</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Decanato</td>
+      <td><a href="tel:+5378790990">78790990</a></td>
+    </tr>
+    <tr>
+      <td>Vicedecano Docente</td>
+      <td><a href="tel:+5378782161">78782161</a></td>
+    </tr>
+    <tr>
+      <td>Vicedecano Investigación y Postgrado</td>
+      <td><a href="tel:+5378704700">78704700</a></td>
+    </tr>
+    <tr>
+      <td>Secretaría Docente</td>
+      <td><a href="tel:+5378788690">78788690</a></td>
+    </tr>
+    <tr>
+      <td>Administración</td>
+      <td><a href="tel:+5378764839">78764839</a></td>
+    </tr>
+    <tr>
+      <td>Laboratorio</td>
+      <td><a href="tel:+5378781235">78781235</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="departamentos">Departamentos</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>Departamento</th>
+      <th>Teléfono</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Programación</td>
+      <td><a href="tel:+5378795771">78795771</a></td>
+    </tr>
+    <tr>
+      <td>Inteligencia Artificial</td>
+      <td><a href="tel:+5378780903">78780903</a></td>
+    </tr>
+    <tr>
+      <td>Matemática</td>
+      <td><a href="tel:+5378704367">78704367</a></td>
+    </tr>
+  </tbody>
+</table>
+
+
+      </section>
+      <footer>
+        
+        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+      </footer>
+    </div>
+    <script src="/assets/js/scale.fix.js"></script>
+  </body>
+</html>

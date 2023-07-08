@@ -1,83 +1,23 @@
-﻿namespace Hulk;
+﻿namespace HULK;
 
 public static class Interpreter
 {
-public static void Main(string[] args)
+	public static void Main(string[] args)
 	{
-		string s = "hello";
-		Console.WriteLine(s + Console.ReadLine());
-		/** List<string> lines = new List<string>();
+		Console.WriteLine("Welcome HULK! Type \"help\" for more information.");
+		
 		while(true)
 		{
-			string line = InputReader();
-			if(line == "exit") break;
-			lines.Add(line);
+			Console.Write("> ");
+			string line = Console.ReadLine()!;
+
+			if(line == "exit")
+			{
+				Environment.Exit(0);
+			}
+
+			Console.Write(
+				Lexer.Split(line));
 		}
-		foreach(string line in lines)
-		{
-			Console.WriteLine(line);
-		} */
 	}
-
-	/** public static string InputReader()
-	{
-		string[] keywordsMagenta = new string[] {
-			"cos", "log", "PI", "print", "sin", "tan",
-		};
-		string[] keywordsRed = new string[] {
-			"else", "function", "if", "let" // in
-		};
-		string[] keywordsWhite = new string[] {
-			"(", ")", ";", "@"
-		};
-
-		Console.Write("> ");
-		string input = "";
-
-		while(true)
-		{
-			ConsoleKeyInfo key = Console.ReadKey(true);
-
-			if(key.Key == ConsoleKey.Enter)
-			{
-				Console.WriteLine();
-				break;
-			}
-			else if(key.Key == ConsoleKey.Backspace)
-			{
-				if(input.Length > 0)
-				{
-					input = input.Substring(0, input.Length-1);
-					Console.Write("\b \b");
-				}
-			}
-			else
-			{
-				if("abcdefghijklmnopqrstuvwxyz0123456789/=+-*^() \t\",;`~!@#$%&-_[]{}\\|:'<>.?".Contains(key.KeyChar.ToString().ToLower()))
-					input += key.KeyChar;
-			}
-
-			string showString = input;
-			showString = "\x1b[34m"+showString+"\x1b[0m";
-			foreach(string keyword in keywordsMagenta)
-			{
-				showString = showString.Replace(keyword, "\x1b[35m"+keyword);
-			}
-			foreach(string keyword in keywordsRed)
-			{
-				showString = showString.Replace(keyword, "\x1b[31m"+keyword);
-			}
-			foreach(string keyword in keywordsWhite)
-			{
-				showString = showString.Replace(keyword, "\x1b[37m"+keyword);
-			}
-
-			Console.SetCursorPosition(2, Console.CursorTop);
-			Console.Write(new string(' ', input.Length));
-			Console.SetCursorPosition(2, Console.CursorTop);
-			Console.Write(showString);
-		}
-
-		return input;
-	} */
 }

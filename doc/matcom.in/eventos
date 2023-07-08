@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Calendario de Eventos | MatCom</title>
+<meta name="generator" content="Jekyll v3.9.3" />
+<meta property="og:title" content="Calendario de Eventos" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Información general sobre la Facultad de Matemática y Computación de la Universidad de La Habana" />
+<meta property="og:description" content="Información general sobre la Facultad de Matemática y Computación de la Universidad de La Habana" />
+<link rel="canonical" href="https://matcom.in/eventos/" />
+<meta property="og:url" content="https://matcom.in/eventos/" />
+<meta property="og:site_name" content="MatCom" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Calendario de Eventos" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","description":"Información general sobre la Facultad de Matemática y Computación de la Universidad de La Habana","headline":"Calendario de Eventos","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"https://matcom.in/logo.png"}},"url":"https://matcom.in/eventos/"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="/assets/css/style.css?v=446ad44cc7c5468fa8b739ee7bb4c25c27da02ec">
+    <!--[if lt IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
+    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+
+<!-- Setup Google Analytics -->
+
+
+
+<!-- You can set your favicon here -->
+<!-- link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" -->
+
+<!-- end custom head snippets -->
+
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1><a href="https://matcom.in/">MatCom</a></h1>
+
+        
+          <img src="/logo.png" alt="Logo" />
+        
+
+        <p>Información general sobre la Facultad de Matemática y Computación de la Universidad de La Habana</p>
+
+        
+
+        
+        <p class="view"><a href="https://github.com/matcom">View My GitHub Profile</a></p>
+        
+
+        
+      </header>
+      <section>
+
+      <h1 id="calendario-de-eventos">Calendario de Eventos</h1>
+
+<blockquote>
+  <p>A continuación presentamos los eventos estudiantiles y profesionales más importantes del año. Haga click en los eventos que tienen hipervínculos para ver más información.</p>
+</blockquote>
+
+<h2 id="eventos-científicos-estudiantiles">Eventos Científicos Estudiantiles</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>🏆Evento</th>
+      <th>🗓️Fecha</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Jornada Científica Estudiantil 2023</td>
+      <td>02/Oct/2023</td>
+    </tr>
+    <tr>
+      <td>Festival Nacional de Matemática y Computación</td>
+      <td>Sept. 2023</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="eventos-científicos">Eventos Científicos</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>🏆Evento</th>
+      <th>🗓️Fecha</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://www.casc-conference.org/">25th International Workshop on Computer Algebra in Scientific Computing</a></td>
+      <td>28/Ago/2023</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/matcom/matcom.github.io/raw/b33becef184e63453f3ecc737b4ba0946a8c35b7/eventos/Primer%20anuncio%20-%20Compumat%202023.pdf">COMPUMAT 2023</a></td>
+      <td>21/Nov/2023</td>
+    </tr>
+    <tr>
+      <td>European-Latin-American Conference of Theoretical and Applied Mechanics</td>
+      <td>Feb/2024</td>
+    </tr>
+    <tr>
+      <td>16th ICOR</td>
+      <td>06/Mar/2024</td>
+    </tr>
+    <tr>
+      <td>II Taller de IA, CD, y Aplicaciones</td>
+      <td>1er Sem. 2024</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="concursos-universitarios">Concursos Universitarios</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>🏆Evento</th>
+      <th>🗓️Fecha</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Olimpiada Iraní de Geometría</td>
+      <td>11/Nov/2023</td>
+    </tr>
+    <tr>
+      <td>Concurso Internacional de Programación ICPC (Mundial)</td>
+      <td>23/Nov/2023</td>
+    </tr>
+    <tr>
+      <td>Olimpiada Iberoamericana de Matemática Universitaria</td>
+      <td>26/Nov/2023</td>
+    </tr>
+  </tbody>
+</table>
+
+<details>
+
+## Charlas y Conferencias Magistrales
+
+📢Título | 🗓️Fecha | ⏰Hora | 📌Lugar
+---|---|---|---
+...
+
+## Premiaciones
+
+🏆Evento | 🗓️Fecha | ⏰Hora | 📌Lugar
+---|---|---|---
+...
+
+## Seminarios y Escuelas de Verano
+
+🏆Evento | 🗓️Fecha
+---|---
+...
+
+</details>
+
+
+      </section>
+      <footer>
+        
+        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+      </footer>
+    </div>
+    <script src="/assets/js/scale.fix.js"></script>
+  </body>
+</html>
