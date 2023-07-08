@@ -1,0 +1,15 @@
+/media/nikof/Data/Dev/Hulk-dev/src/hulk/bin/Debug/net6.0/hulk
+/media/nikof/Data/Dev/Hulk-dev/src/hulk/bin/Debug/net6.0/hulk.deps.json
+/media/nikof/Data/Dev/Hulk-dev/src/hulk/bin/Debug/net6.0/hulk.runtimeconfig.json
+/media/nikof/Data/Dev/Hulk-dev/src/hulk/bin/Debug/net6.0/hulk.dll
+/media/nikof/Data/Dev/Hulk-dev/src/hulk/bin/Debug/net6.0/ref/hulk.dll
+/media/nikof/Data/Dev/Hulk-dev/src/hulk/bin/Debug/net6.0/hulk.pdb
+/media/nikof/Data/Dev/Hulk-dev/src/hulk/obj/Debug/net6.0/hulk.csproj.AssemblyReference.cache
+/media/nikof/Data/Dev/Hulk-dev/src/hulk/obj/Debug/net6.0/hulk.GeneratedMSBuildEditorConfig.editorconfig
+/media/nikof/Data/Dev/Hulk-dev/src/hulk/obj/Debug/net6.0/hulk.AssemblyInfoInputs.cache
+/media/nikof/Data/Dev/Hulk-dev/src/hulk/obj/Debug/net6.0/hulk.AssemblyInfo.cs
+/media/nikof/Data/Dev/Hulk-dev/src/hulk/obj/Debug/net6.0/hulk.csproj.CoreCompileInputs.cache
+/media/nikof/Data/Dev/Hulk-dev/src/hulk/obj/Debug/net6.0/hulk.dll
+/media/nikof/Data/Dev/Hulk-dev/src/hulk/obj/Debug/net6.0/ref/hulk.dll
+/media/nikof/Data/Dev/Hulk-dev/src/hulk/obj/Debug/net6.0/hulk.pdb
+/media/nikof/Data/Dev/Hulk-dev/src/hulk/obj/Debug/net6.0/hulk.genruntimeconfig.cache
